@@ -11,3 +11,8 @@ html, body, main, article, section, div, span, img, figure, figcaption, p, h1, h
 body{
   background-color: #4B9CD4;
 }
+.parent-container {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
