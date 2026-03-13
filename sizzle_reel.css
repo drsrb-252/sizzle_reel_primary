@@ -18,14 +18,21 @@ body{
 }
 .new-font{
   font-family: "Vast Shadow", serif;
+  font-size: 5rem;
   font-weight: 400;
   font-style: normal;
+  text-align: center;
+  width: 10ch;
+  line-height: 5rem;
+  color: white;
 }
 .sub-font{
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 100;
+  font-size: 5rem;
+  font-weight: 400;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+    color: white;
 }
